@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">fake_wechat</string>
+    <string name="hello_blank_fragment">这是微信聊天界面</string>
+    <string name="friend_blank_fragment">这是微信通讯录界面</string>
+    <string name="address_blank_fragment">这是微信发现界面</string>
+    <string name="setting_blank_fragment">这是微信设置界面</string>
+</resources>
